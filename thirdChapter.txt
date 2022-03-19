@@ -1,1 +1,2 @@
 This is the third chapter.
+This is the enhanced version of the third chapter.
